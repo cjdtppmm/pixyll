@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Pixyll
+title: About 陈佳
 permalink: /about/
 tags: about
 ---
