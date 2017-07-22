@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About 陈佳
+title: 关于
 permalink: /about/
 tags: about
 ---
